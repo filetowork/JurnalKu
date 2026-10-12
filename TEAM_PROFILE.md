@@ -2,13 +2,13 @@
 
 ## Anggota Tim & Peran
 
-| No | Nama Lengkap | Peran | Tanggung Jawab Utama |
-|----|--------------|-------|----------------------|
-| 1 | Imelda Dwi Zen | Product Owner | Menentukan kebutuhan produk dan memprioritaskan Product Backlog |
-| 1 | Imelda Dwi Zen | Scrum Master | Memfasilitasi acara Scrum dan memastikan proses berjalan sesuai rencana |
-| 1 | Imelda Dwi Zen | Developer | Merancang dan membangun fitur sesuai Sprint Backlog |
+| No | NRP | Nama Lengkap | Peran | Tanggung Jawab Utama |
+|----|-----|--------------|-------|----------------------|
+| 1 | 261114001 | Imelda Dwi Zen | Product Owner & Developer | Menentukan kebutuhan produk, memprioritaskan Product Backlog, serta merancang dan membangun fitur sesuai Sprint Backlog |
+| 2 | 201111013 | Muhammad Ismail Ardhafillah | Scrum Master & Developer | Memfasilitasi acara Scrum dan memastikan proses berjalan sesuai rencana, serta merancang dan membangun fitur sesuai Sprint Backlog |
 
-> Catatan: Tim ini beranggotakan satu orang, sehingga seluruh peran dijalankan oleh Imelda Dwi Zen.
+> Catatan: Tim ini beranggotakan dua orang, sehingga masing-masing anggota merangkap
+> sebagai Developer, dan peran Product Owner serta Scrum Master dibagi di antara keduanya.
 
 ## Visi Proyek
 
